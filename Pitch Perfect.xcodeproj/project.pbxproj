@@ -33,13 +33,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D0A3569E1A3A0CFA00095BDE /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D0F9A12A1A2A70000065B15C /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = D0A356941A3A0CF900095BDE;
-			remoteInfo = "Where Am I";
-		};
 		D0F9A1481A2A70030065B15C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D0F9A12A1A2A70000065B15C /* Project object */;
@@ -250,7 +243,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				D0A3569F1A3A0CFA00095BDE /* PBXTargetDependency */,
 			);
 			name = "Pitch Perfect";
 			productName = "Pitch Perfect";
@@ -384,11 +376,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D0A3569F1A3A0CFA00095BDE /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = D0A356941A3A0CF900095BDE /* Where Am I */;
-			targetProxy = D0A3569E1A3A0CFA00095BDE /* PBXContainerItemProxy */;
-		};
 		D0F9A1491A2A70030065B15C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = D0F9A1311A2A70000065B15C /* Pitch Perfect */;
